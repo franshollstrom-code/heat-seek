@@ -1,6 +1,3 @@
-# heat-seek
-Building AI course project - AI tool for mapping urban waste heat recovery potential
-
 # Heat Seek – AI tool for mapping urban waste heat recovery potential
 
 Final project for the Building AI course
