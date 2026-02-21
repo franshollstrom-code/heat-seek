@@ -19,13 +19,6 @@ The tool bridges the gap between industrial waste and urban heat demand in vario
 * **Off-grid Zones (e.g., Central Europe):** Planners use it to identify "Energy Clusters" for new localized 5th Generation District Heating (5GDH) networks.
 * **Developers:** Used during the feasibility phase of new residential projects to find nearby "free" heat sources.
 
-### Stakeholder Value Matrix
-| Stakeholder | Problem Solved | Primary Value (ROI) |
-| ----------- | ----------- | ----------- |
-| **Energy Utilities** | High cost of finding new sources | Lower CAPEX: Pre-validated connection points |
-| **Industrial Owners** | Excess heat is a cost/liability | New Revenue: Selling waste heat as a commodity |
-| **City Regulators** | Lack of data for mandates | Policy Tool: Objective data for circularity |
-
 ### Example Implementation (Python)
 The following code demonstrates how we use linear regression to find buildings that "over-perform" in heat waste (high potential) compared to the neighborhood average:
 
