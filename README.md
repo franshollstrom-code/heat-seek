@@ -6,7 +6,7 @@ Final project for the Building AI course
 Heat Seek is an AI-driven analytical tool designed to map and prioritize industrial and commercial waste heat recovery. By generating a Heat Recovery Index (HRI), it identifies where excess thermal energy is most economically and technically viable to recycle into district heating networks.
 
 ## Background
-* **The Problem:** Huge amounts of energy are wasted as heat in urban areas. The primary barrier to recovery is a lack of qualified, empirical data; cities often don't know which specific buildings offer the best return on investment for heat recovery.
+* **The Problem:** Huge amounts of energy are wasted as heat in urban areas. The primary barrier to recovery is a lack of qualified, empirical data as cities often don't know which specific buildings offer the best return on investment for heat recovery.
 * **Differentiation:** Unlike static tools like Hotmaps or Citiwatts that rely on statistical averages, Heat Seek uses live satellite thermal data to identify specific, high-potential sites that models based on building age alone overlook.
 * **Motivation:** My motivation is to accelerate the circular economy. AI serves as the bridge between technical thermal data and actionable environmental investment, helping cities reach carbon neutrality faster.
 
