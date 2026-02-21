@@ -72,7 +72,7 @@ def main():
         print(site)
 
 main()
-
+```
 
 ## Data sources and AI methods
 The project combines multiple open data streams to create a reliable assessment of heat recovery potential.
